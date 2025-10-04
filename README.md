@@ -1,4 +1,4 @@
-👋 Hello! I’m Walid, a Full-Stack Developer and Automation Enthusiast.  
+## 👋 Hello! I’m Walid, a Full-Stack Developer and Automation Enthusiast  
 I build intelligent, user-centric applications and love automating workflows to make life easier.
 
 ---
@@ -33,7 +33,7 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Expertise
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -44,9 +44,7 @@ Here are some of the projects I’ve worked on:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 🌱 Soft Skills
+### 🌱 Soft Skills
 Curiosity • Adaptability • Problem-solving • Attention to detail • Effective communication  
 
 ---
@@ -54,4 +52,4 @@ Curiosity • Adaptability • Problem-solving • Attention to detail • Effec
 ## 📫 Connect With Me
 - GitHub: [https://github.com/walid096](https://github.com/walid096)  
 - LinkedIn: [https://www.linkedin.com/in/walid-touil-475338248/](https://www.linkedin.com/in/walid-touil-475338248/)  
-- Email: walidtouil011@gmail.com  
+- Email: walidtouil011@gmail.com
